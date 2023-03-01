@@ -3,6 +3,7 @@
 <?php include 'header.php'?>
 <?php include 'nav.php'?>
 
+
 <?php 
 $i=0;
               	$sql = "SELECT * FROM contact";
